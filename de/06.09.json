@@ -12,6 +12,7 @@
         {
           "name": "Hydrodynamics",
           "complexity": "4",
+          "lkg": "22",
           "interest": "3",
           "bool": false
         }
