@@ -26,10 +26,6 @@ msgstr "AMP Conf 2020"
 msgid "AMP Contributor Summit 2019"
 msgstr "AMP Contributor Summit 2019"
 
-#: /views/partials/footer.j2:22
-msgid "AMP Contributor Summit 2000"
-msgstr "AMP Contributor Summit 2000"
-
 #: /views/partials/banner.j2:5
 msgid "AMP Contributor Summit 2019 Applications Now Open"
 msgstr "AMP Contributor Summit 2019 Applications Now Open"
