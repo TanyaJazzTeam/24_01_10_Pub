@@ -1,0 +1,16 @@
+---
+my:
+  cake:
+    composition:
+      dough:
+      - huevos
+      - azúcar
+      - harina
+      cream:
+      - azúcar
+      - Leche
+    dough:
+    - azúcar
+    cream:
+    - azúcar
+    - Leche
